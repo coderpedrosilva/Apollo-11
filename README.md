@@ -100,9 +100,9 @@ This AGC program shall also be referred to as Colossus 2A.
 
 This program is intended for use in the Command Module as specified in report `R-577`. This program was prepared under DSR project `55-23870`, sponsored by the Manned Spacecraft Center of The National Aeronautics and Space Administration through contract `NAS 9-4065` with the Instrumentation Laboratory, Massachusetts Institute of Technology, Cambridge, Mass.
 
-Submitted by         | Role | Date
+Submitted By         | Role | Date
 :------------------- | :--- | :---
-Margaret H. Hamilton | Colossus Programming Leader<br>Apollo Guidance and Navigation | 28 Mar 69
+Margaret H. Hamilton | Colossus Programming Leader<br>Apollo Guidance and Navigation | 28 Mar 69 
 
 Approved by       | Role | Date
 :---------------- | :--- | :---
